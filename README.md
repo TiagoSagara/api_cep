@@ -1,9 +1,9 @@
 # api_cep
 
-Projeto para consumo de Via CEP API disponibilizada em:
+Projeto criado em Flutter para consumo de Via CEP API disponibilizada em:
 https://viacep.com.br/
 
-Utilizados packges:
+Packges utilizados:
 * dio - para consumo de API;
 * router - navegação entre telas;
 * bloc - gerência de estado;
