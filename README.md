@@ -3,7 +3,7 @@
 Projeto criado em Flutter para consumo de Via CEP API disponibilizada em:
 https://viacep.com.br/
 
-Packges utilizados:
+Packages utilizados:
 * dio - para consumo de API;
 * router - navegação entre telas;
 * bloc - gerência de estado;
